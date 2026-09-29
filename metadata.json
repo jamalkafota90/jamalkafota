@@ -1,0 +1,6 @@
+{
+  "name": "E-Pilketos & E-Pilkosim Digital",
+  "description": "Sistem Pemilihan Suara Elektronik Ketua OSIS/OSIM Terenkripsi, Tamper-Proof dengan Bilik Suara Digital, Quick Count Realtime, dan Cetak BAHP.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
